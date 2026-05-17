@@ -1,8 +1,8 @@
 # deepseek-meter
 
-This project is **free to use, modify, and distribute** for any purpose — personal, educational, or commercial. No permission is required.
+This project is in MIT license, **free to use, modify, and distribute** for any purpose — personal, educational, or commercial. No permission is required.
 
-本项目**完全自由使用、修改和分发**，可用于个人、教育或商业目的，无需另行授权。
+本项目为 MIT 协议，**完全自由使用、修改和分发**，可用于个人、教育或商业目的，无需另行授权。
 
 An MCP server for querying DeepSeek account balance through Claude Code. Supports manual queries, scheduled auto-queries, and 13 output languages.
 
